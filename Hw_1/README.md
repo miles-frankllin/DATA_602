@@ -1,11 +1,11 @@
 # Overview
 
-The goal of this project was to impliment a Linear Regression on a dataset of my choice. I chose to regress alcohol density onto percent alchol content from a pair of data sets from UCIML. While exploring the data, I became interested in how the rated quality effectd this measurement, and how the color of while effect the results. This exploration was not published in the [Technical Notebook](), altough the exploratory graphs can be found in [Additional Notebook](). 
+The goal of this project was to impliment a Linear Regression on a dataset of my choice. I chose to regress alcohol density onto percent alchol content from a pair of data sets from UCIML. While exploring the data, I became interested in how the rated quality effectd this measurement, and how the color of while effect the results. This exploration was not published in the [Technical Notebook](https://github.com/miles-frankllin/DATA_602/blob/master/Hw_1/Notebooks/Technical_Notebook.ipynb), altough the exploratory graphs can be found in [Additional Notebook](https://github.com/miles-frankllin/DATA_602/blob/master/Hw_1/Notebooks/Additional_Notebook.ipynb). 
 
 # Navigation (Need to link notebooks)
 
-[Technical Notebok](https://github.com/a-woodbury/A-House-with-a-View#data) -
-[Additional NoteBook](https://github.com/a-woodbury/A-House-with-a-View#model) -
+[Technical Notebok](https://github.com/miles-frankllin/DATA_602/blob/master/Hw_1/Notebooks/Technical_Notebook.ipynb) -
+[Additional NoteBook](https://github.com/miles-frankllin/DATA_602/blob/master/Hw_1/Notebooks/Additional_Notebook.ipynb) -
 [Data - Kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) - 
 [Data - UCIML](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/)
 
