@@ -1,7 +1,16 @@
-# Problem Statement
+# ReadMe Should include
+- [x] Overview
+- [ ] Goals
+- [ ] Data
+- [x] Table of Content
+- [x] Packages and Software
+
+# Overview
 The debate of mask wearing in America has crippled our ability to slow the spread of Covid-19. Tools such as this help businesses operate safely and mitigate spread in their buildings.
 
 In this project, I aim to take an existing mask classification project from [Samuel Mohebban](https://github.com/HeeebsInc/FaceMaskEmotionDetection), and enhance the model to better predict when the person is wearing glasses. This technique is commonly referred to as transfer learning.
+
+# Goals
 
 # Navigation (Need to link notebooks)
 
