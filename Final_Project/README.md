@@ -3,8 +3,24 @@ The debate of mask wearing in America has crippled our ability to slow the sprea
 
 In this project, I aim to take an existing mask classification project from [Samuel Mohebban](https://github.com/HeeebsInc/FaceMaskEmotionDetection), and enhance the model to better predict when the person is wearing glasses. This technique is commonly referred to as transfer learning.
 
-# Data
+# Navigation (Need to link notebooks)
 
+[Technical Notebok]() -
+[Additional NoteBook]() -
+[Data (Base Project)]() - 
+[Data (Glasses vs No Glasses)]() - 
+[Data - (Mask_Detection)]()
+
+# Requirements
+<pre>
+Languages    : Python 3.8.3
+Tools/IDE    : Google Colab
+Libraries    : zipfile, os, pandas, numpy, random, sklearn.model_selection.train_test_split,
+               sklearn.metrics.classification_report, sklearn.metrics.confusion_matrix,
+               seaborn, shutil, errno tensorflow,  keras_preprocessing.image.ImageDataGenerator
+</pre>
+
+# Data
 ## Base Model
 <pre>
 File Name      : Mobilenet_Masks.h5
@@ -34,4 +50,12 @@ Concerns       : N/A
 Total Images   : 5000
 No Mask Images : 5000
 Mask Images    : 0
+</pre>
+
+
+# References
+<pre>
+URL            : 
+Author         :
+Purpose        :
 </pre>
