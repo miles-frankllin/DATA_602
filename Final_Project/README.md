@@ -25,7 +25,6 @@ Libraries    : zipfile, os, pandas, numpy, random, sklearn.model_selection.train
 <pre>
 File Name      : Mobilenet_Masks.h5
 URL            : https://github.com/HeeebsInc/FaceMaskEmotionDetection/blob/master/ModelWeights/Mobilenet_Masks.h5
-Limitations    : 5000 images of individuals with or without glasses
 </pre>
 
 ## Mask Detection
