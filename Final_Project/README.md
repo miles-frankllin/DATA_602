@@ -30,10 +30,6 @@ Libraries    : zipfile, os, pandas, numpy, random, sklearn.model_selection.train
 </pre>
 
 # Data
-- [x] https://www.kaggle.com/jeffheaton/glasses-or-no-glasses
-- [x] https://www.kaggle.com/milesfranklin/mask-detection
-- [ ] https://www.kaggle.com/aneerbanchakraborty/face-mask-detection-data
-- [ ] https://www.kaggle.com/harry418/dataset-for-mask-detection
 Base Model
 <pre>
 File Name      : Mobilenet_Masks.h5
