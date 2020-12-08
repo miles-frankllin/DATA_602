@@ -6,8 +6,8 @@ In this project, I aim to take an existing mask classification project from [Sam
 
 # Navigation (Need to link notebooks)
 
-[Technical Notebok]() -
-[Additional NoteBook]() -
+[Technical Notebok](https://github.com/miles-frankllin/DATA_602/blob/master/Final_Project/Notebooks/Technical_Notebook.ipynb) -
+[Additional NoteBook](https://github.com/miles-frankllin/DATA_602/blob/master/Final_Project/Notebooks/Data_602_FinalProject_TransferLearning.ipynb) -
 [Data (Base Project)](https://github.com/HeeebsInc/FaceMaskEmotionDetection) - 
 [Data (Kaggle)](https://www.kaggle.com/aneerbanchakraborty/face-mask-detection-data) - 
 [Data - (Kaggle)](https://www.kaggle.com/harry418/dataset-for-mask-detection)
