@@ -62,8 +62,24 @@ Mask Images    : 0
 
 
 # References
+
 <pre>
-URL            : 
-Author         :
-Purpose        :
+URL            : https://github.com/HeeebsInc/FaceMaskEmotionDetection
+Author         : Samuel Mohebban
+Purpose        : This repository holds the base model used in the transfer learning process.
+</pre>
+<pre>
+URL            : https://github.com/miles-frankllin/Data_603/blob/main/Mask_Classification_CNN.ipynb
+Author         : Miles Franklin
+Purpose        : This is a previous attempt I made for mask classification before learning about transfer learning. I used this for refernce code and syntax.
+</pre>
+<pre>
+URL            : https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models/
+Author         : Jason Brownlee
+Purpose        : This was a helpful introduction to transfer learning and understanding how network types of different layers work.
+</pre>
+<pre>
+URL            : https://towardsdatascience.com/transfer-learning-using-mobilenet-and-keras-c75daf7ff299
+Author         : Ferhat Culfaz
+Purpose        : This was a helpful guide and introduction to transfer learning.
 </pre>
