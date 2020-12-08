@@ -30,13 +30,17 @@ Libraries    : zipfile, os, pandas, numpy, random, sklearn.model_selection.train
 </pre>
 
 # Data
-## Base Model
+- [x] https://www.kaggle.com/jeffheaton/glasses-or-no-glasses
+- [x] https://www.kaggle.com/milesfranklin/mask-detection
+- [ ] https://www.kaggle.com/aneerbanchakraborty/face-mask-detection-data
+- [ ] https://www.kaggle.com/harry418/dataset-for-mask-detection
+Base Model
 <pre>
 File Name      : Mobilenet_Masks.h5
 URL            : https://github.com/HeeebsInc/FaceMaskEmotionDetection/blob/master/ModelWeights/Mobilenet_Masks.h5
 </pre>
 
-## Mask Detection
+Mask Detection
 <pre>
 URL            : https://www.kaggle.com/milesfranklin/mask-detection
 Limitations    : I had previously attempted this project from scratch and scraped the 
@@ -50,15 +54,36 @@ No Mask Images : 175
 Mask Images    : 502
 </pre>
 
-## Glasses or No Glasses
+Glasses or No Glasses
 <pre>
 URL            : https://www.kaggle.com/jeffheaton/glasses-or-no-glasses
-Limitations    : 5000 images of individuals with or without glasses
+Limitations    : Only contains images of individuals without a mask.
 Concerns       : N/A
 Total Images   : 5000
 No Mask Images : 5000
 Mask Images    : 0
 </pre>
+
+Face Mask Detection Data
+<pre>
+URL            : https://www.kaggle.com/aneerbanchakraborty/face-mask-detection-data
+Limitations    : N/A
+Concerns       : N/A
+Total Images   : 3833
+No Mask Images : 1918
+Mask Images    : 1915
+</pre>
+
+Dataset for Mask Detection
+<pre>
+URL            : https://www.kaggle.com/harry418/dataset-for-mask-detection
+Limitations    : N/A
+Concerns       : N/A
+Total Images   : 1237
+No Mask Images : 543
+Mask Images    : 694
+</pre>
+
 
 
 # References
