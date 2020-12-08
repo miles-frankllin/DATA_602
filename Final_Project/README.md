@@ -98,3 +98,8 @@ URL            : https://towardsdatascience.com/transfer-learning-using-mobilene
 Author         : Ferhat Culfaz
 Purpose        : This was a helpful guide and introduction to transfer learning.
 </pre>
+<pre>
+URL            : https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mercurynews.com%2F2020%2F06%2F13%2Fcoronavirus-why-are-we-at-war-over-face-masks%2F&psig=AOvVaw3HzFahz7vjHdpLBNSGc1Sm&ust=1607495804283000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID9mtXive0CFQAAAAAdAAAAABAE
+Author         : N/A
+Purpose        : I used this image to create the banner for this README.md document.
+</pre>
