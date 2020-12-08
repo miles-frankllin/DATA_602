@@ -8,9 +8,9 @@ In this project, I aim to take an existing mask classification project from [Sam
 
 [Technical Notebok]() -
 [Additional NoteBook]() -
-[Data (Base Project)]() - 
-[Data (Glasses vs No Glasses)]() - 
-[Data - (Mask_Detection)]()
+[Data (Base Project)](https://github.com/HeeebsInc/FaceMaskEmotionDetection) - 
+[Data (Kaggle)](https://www.kaggle.com/aneerbanchakraborty/face-mask-detection-data) - 
+[Data - (Kaggle)](https://www.kaggle.com/harry418/dataset-for-mask-detection)
 
 # Requirements
 <pre>
