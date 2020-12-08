@@ -1,5 +1,11 @@
 ![Title](https://github.com/miles-frankllin/DATA_602/blob/master/Final_Project/Notebook_Images/Banner.png)
 
+## Contributers
+- Miles Franklin
+    - UMBC Data Science 602
+    - Dr. Murat Guner
+    - December 2020
+
 ## Overview
 The debate of mask wearing in America has crippled our ability to slow the spread of Covid-19. Tools such as this help businesses operate safely and mitigate spread in their buildings.
 
