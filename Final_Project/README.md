@@ -1,10 +1,12 @@
-# Overview
+![Title](https://github.com/miles-frankllin/DATA_602/blob/master/Final_Project/Notebook_Images/Banner.png)
+
+## Overview
 The debate of mask wearing in America has crippled our ability to slow the spread of Covid-19. Tools such as this help businesses operate safely and mitigate spread in their buildings.
 
-# Goals
+## Goals
 In this project, I aim to take an existing mask classification project from [Samuel Mohebban](https://github.com/HeeebsInc/FaceMaskEmotionDetection), and enhance the model. In particular, I aim to accomplish one of the future directions in from his project and try improving the prediction accuracy when the person is wearing glasses and a mask. This technique is commonly referred to as transfer learning. It was expected to be a difficult task to find a dataset of this specific class of images, so I opted for a different approach instead. The goal is to continue to train the model on images that have an individual wearing glasses and not a mask, with the hope that it will teach the model that glasses are not an important feature in the classification process. 
 
-# Navigation (Need to link notebooks)
+## Navigation (Need to link notebooks)
 
 [Technical Notebok](https://github.com/miles-frankllin/DATA_602/blob/master/Final_Project/Notebooks/Technical_Notebook.ipynb) -
 [Additional NoteBook](https://github.com/miles-frankllin/DATA_602/blob/master/Final_Project/Notebooks/Data_602_FinalProject_TransferLearning.ipynb) -
@@ -12,7 +14,7 @@ In this project, I aim to take an existing mask classification project from [Sam
 [Data (Kaggle)](https://www.kaggle.com/aneerbanchakraborty/face-mask-detection-data) - 
 [Data - (Kaggle)](https://www.kaggle.com/harry418/dataset-for-mask-detection)
 
-# Requirements
+## Requirements
 <pre>
 Languages    : Python 3.8.3
 Tools/IDE    : Google Colab
@@ -21,7 +23,7 @@ Libraries    : zipfile, os, pandas, numpy, random, sklearn.model_selection.train
                seaborn, shutil, errno tensorflow,  keras_preprocessing.image.ImageDataGenerator
 </pre>
 
-# Data
+## Data
 Base Model
 <pre>
 File Name      : Mobilenet_Masks.h5
@@ -74,7 +76,7 @@ Mask Images    : 694
 
 
 
-# References
+## References
 
 <pre>
 URL            : https://github.com/HeeebsInc/FaceMaskEmotionDetection
